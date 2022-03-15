@@ -10,7 +10,7 @@
 # Youtube video
 <div align="center">
 
-[![Overview lecture](https://img.youtube.com/vi/wkfMoBoZvpk/0.jpg)](https://www.youtube.com/watch?v=wkfMoBoZvpk)
+[![Overview lecture](https://img.youtube.com/vi/q9go5Hlb02k/0.jpg)](https://www.youtube.com/watch?v=q9go5Hlb02k)
 
 </div>
 
