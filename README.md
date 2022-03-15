@@ -8,9 +8,9 @@ in this repository you will find all codes and resources that i used in my [Yout
 ### - Chapter 01: Introduction to Computers and Programming
 ### - Chapter 02: [Input, Processing, and Output](https://github.com/0xGhazy/Starting-out-with-Python-5th/blob/main/chapter%2002/README.md)
 
-### - Chapter 03: [Decision Structures and Boolean Logic]()
+### - Chapter 03: [Decision Structures and Boolean Logic](https://github.com/0xGhazy/Starting-out-with-Python-5th/tree/main/chapter%2003)
 
-### - Chapter 04: [Repetition Structures]()
+### - Chapter 04: [Repetition Structures](https://github.com/0xGhazy/Starting-out-with-Python-5th/tree/main/chapter%2004)
 
 
 
