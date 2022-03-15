@@ -6,8 +6,11 @@ in this repository you will find all codes and resources that i used in my [Yout
 
 # Currant reviewed chapters:
 ### - Chapter 01: Introduction to Computers and Programming
-### - Chapter 02: Input, Processing, and Output
+### - Chapter 02: [Input, Processing, and Output](https://github.com/0xGhazy/Starting-out-with-Python-5th/blob/main/chapter%2002/README.md)
 
+### - Chapter 03: [Decision Structures and Boolean Logic]()
+
+### - Chapter 04: [Repetition Structures]()
 
 
 
